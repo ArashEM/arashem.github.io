@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to HW-T Technical's documentation!
+Welcome to my page!
 ==========================================
 
 Contents:

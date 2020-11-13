@@ -45,7 +45,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'HW-T Technical'
+project = u'Arash Goglol pages'
 copyright = u'2020, Arash Golgol'
 author = u'Arash Golgol'
 
@@ -200,7 +200,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'HW-TTechnicaldoc'
+htmlhelp_basename = 'ArashEM page'
 
 # -- Options for LaTeX output ---------------------------------------------
 
