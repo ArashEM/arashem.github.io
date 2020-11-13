@@ -1,0 +1,39 @@
+#!/bin/sh
+#********************************************************************************************                                                        
+#	  ______                                __                ________  __       __ 
+#	 /      \                              |  \              |        \|  \     /  \
+#	|  $$$$$$\  ______   ______    _______ | $$____          | $$$$$$$$| $$\   /  $$
+#	| $$__| $$ /      \ |      \  /       \| $$    \  ______ | $$__    | $$$\ /  $$$
+#	| $$    $$|  $$$$$$\ \$$$$$$\|  $$$$$$$| $$$$$$$\|      \| $$  \   | $$$$\  $$$$
+#	| $$$$$$$$| $$   \$$/      $$ \$$    \ | $$  | $$ \$$$$$$| $$$$$   | $$\$$ $$ $$
+#	| $$  | $$| $$     |  $$$$$$$ _\$$$$$$\| $$  | $$        | $$_____ | $$ \$$$| $$
+#	| $$  | $$| $$      \$$    $$|       $$| $$  | $$        | $$     \| $$  \$ | $$
+#	 \$$   \$$ \$$       \$$$$$$$ \$$$$$$$  \$$   \$$         \$$$$$$$$ \$$      \$$
+#	                                                                                
+#	                                                                                
+#	                        
+#********************************************************************************************
+# file name:		pre-commit
+# description:		pre-commit hook to
+#						automatic compile each commit
+#						copy build contents to docs/
+#						prevent direct commit to master
+#********************************************************************************************
+# build via sphinx
+cd srcs
+make clean
+make html
+cd -
+
+# replace docs/ contents
+rm -rf docs/*
+cp -r srcs/build/html/* docs/
+
+# prevent commit to master 
+branch="$(git rev-parse --abbrev-ref HEAD)"
+if [ "$branch" = "master" ]; then
+	echo "You can't commit directly to master branch"
+	exit 1
+fi
+
+exit 1

@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   chapters/hello
+   _chapters/about
 
 Indices and tables
 ==================
