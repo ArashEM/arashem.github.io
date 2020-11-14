@@ -12,10 +12,4 @@ Contents:
    :maxdepth: 2
 
    _chapters/about
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   _chapters/projects
