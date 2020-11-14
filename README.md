@@ -26,8 +26,6 @@ You can find html files in `srcs/build/html`
 
 ## Deploy
 
-My Github Page is configured to render `docs/` directory.  
+My Github Page is configured to render `docs/` directory.
 So after compiling, contents of `docs/` is replaced by new build contents from `srcs/build/html`
 This is done via **Git hooks** in `scripts/`.
-
-
