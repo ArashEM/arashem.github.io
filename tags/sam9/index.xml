@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SAM9 on Arash&#39;s blog</title>
+    <link>https://arashem.ir/tags/sam9/</link>
+    <description>Recent content in SAM9 on Arash&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Sep 2017 18:08:37 +0000</lastBuildDate><atom:link href="https://arashem.ir/tags/sam9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SAM9</title>
+      <link>https://arashem.ir/projects/sam9/</link>
+      <pubDate>Sat, 23 Sep 2017 18:08:37 +0000</pubDate>
+      
+      <guid>https://arashem.ir/projects/sam9/</guid>
+      <description>Introduction SAM9-EVAL is an evaluation board based on at91sam9260 Atmel SoC. It has an old ARM926EJS core. But because of it QFP208 package, you can have your own evaluation board with simple 2 layer PCB.
+That&amp;rsquo;a what I&amp;rsquo;ve done!
+Specification  AT91SAM9260 SoC (ARM926EJS core) 64 Mbytes SDRAM 256 Mbytes NAND flash 4 Mbytes Atmel Data Flash DP83848 Ethernet physical layer FT232BL USB to serial converter µSD card slot  History First version of board (V1.</description>
+    </item>
+    
+  </channel>
+</rss>

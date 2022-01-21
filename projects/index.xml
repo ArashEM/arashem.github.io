@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Arash&#39;s blog</title>
+    <link>https://arashem.ir/projects/</link>
+    <description>Recent content in Projects on Arash&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jan 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://arashem.ir/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VP2S2</title>
+      <link>https://arashem.ir/projects/vp2s2/</link>
+      <pubDate>Thu, 06 Jan 2022 17:47:36 +0000</pubDate>
+      
+      <guid>https://arashem.ir/projects/vp2s2/</guid>
+      <description>Introduction This website, you are exploring in this very moment &amp;hellip; is serving by this monster!
+Specification Following hardware is used by Proxmox-VE in order to provide full virtualization system.
+ ASUS H81M-C motherboard Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz 2x 4GiB DDR3 memeory 1600 MT/s 2x Seagate 2TiB IraonWolf HDD  Details TBD</description>
+    </item>
+    
+    <item>
+      <title>MP3 player</title>
+      <link>https://arashem.ir/projects/vsmp3/</link>
+      <pubDate>Wed, 11 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://arashem.ir/projects/vsmp3/</guid>
+      <description>Introduction VS1063 is an audio encoder/decoder from VLSI solution. Base on VS1063 and STM32F1X, I&amp;rsquo;d designed a simple MP3 player.
+Specification Here is list of main element used in my MP3P project:
+ VS1063a as MP3 / FLAC decoder STM32F103RCT6 as main controller Can be powered from USB and Li-ion battery (without interruption on exchange) TPS62110QRSARQ1 as switching regulator (3v7 to 3v3) MAX1555EZK Li-ion battery charger LTC4412ES6 Power Path controller SDIO 4bit connection (which only 1bit got working!</description>
+    </item>
+    
+    <item>
+      <title>VP2S</title>
+      <link>https://arashem.ir/projects/vp2s/</link>
+      <pubDate>Sun, 20 Jun 2021 16:15:30 +0000</pubDate>
+      
+      <guid>https://arashem.ir/projects/vp2s/</guid>
+      <description>Introduction One of my old dreams was about having personal server which is accessible over Internet.
+So I could rent a VPS (Virtual Private Server).
+But, It&amp;rsquo;s
+ Expensive Expensive (again!) Not that private  So I build my own infrastructure based on old G41M motherboard.
+Here is what I did.
+Functional View Using Ubuntu-16.04 and Docker, I could have multiple services.
+nginx-proxy helped to map each service to dedicated sub-domain.</description>
+    </item>
+    
+    <item>
+      <title>EPCI</title>
+      <link>https://arashem.ir/projects/epci/</link>
+      <pubDate>Thu, 24 Sep 2020 17:23:28 +0000</pubDate>
+      
+      <guid>https://arashem.ir/projects/epci/</guid>
+      <description>Introduction I always had a dream about HW/SW co-design of network controller. Like designing schematic / PCB, then develop FW/SW and so on &amp;hellip;
+This is basically just a dream. But for my first iteration I&amp;rsquo;d decided to design a PCI network card.
+As PCI is parallel (and a little simple) protocol, so I can handle (hopefully) hardware part of network card in LX9!
+Again, my design can be as simple as 2 layer PCB.</description>
+    </item>
+    
+    <item>
+      <title>SAM9</title>
+      <link>https://arashem.ir/projects/sam9/</link>
+      <pubDate>Sat, 23 Sep 2017 18:08:37 +0000</pubDate>
+      
+      <guid>https://arashem.ir/projects/sam9/</guid>
+      <description>Introduction SAM9-EVAL is an evaluation board based on at91sam9260 Atmel SoC. It has an old ARM926EJS core. But because of it QFP208 package, you can have your own evaluation board with simple 2 layer PCB.
+That&amp;rsquo;a what I&amp;rsquo;ve done!
+Specification  AT91SAM9260 SoC (ARM926EJS core) 64 Mbytes SDRAM 256 Mbytes NAND flash 4 Mbytes Atmel Data Flash DP83848 Ethernet physical layer FT232BL USB to serial converter µSD card slot  History First version of board (V1.</description>
+    </item>
+    
+  </channel>
+</rss>

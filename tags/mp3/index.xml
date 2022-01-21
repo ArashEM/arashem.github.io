@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MP3 on Arash&#39;s blog</title>
+    <link>https://arashem.ir/tags/mp3/</link>
+    <description>Recent content in MP3 on Arash&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Aug 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://arashem.ir/tags/mp3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MP3 player</title>
+      <link>https://arashem.ir/projects/vsmp3/</link>
+      <pubDate>Wed, 11 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://arashem.ir/projects/vsmp3/</guid>
+      <description>Introduction VS1063 is an audio encoder/decoder from VLSI solution. Base on VS1063 and STM32F1X, I&amp;rsquo;d designed a simple MP3 player.
+Specification Here is list of main element used in my MP3P project:
+ VS1063a as MP3 / FLAC decoder STM32F103RCT6 as main controller Can be powered from USB and Li-ion battery (without interruption on exchange) TPS62110QRSARQ1 as switching regulator (3v7 to 3v3) MAX1555EZK Li-ion battery charger LTC4412ES6 Power Path controller SDIO 4bit connection (which only 1bit got working!</description>
+    </item>
+    
+  </channel>
+</rss>

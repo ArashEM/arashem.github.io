@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Arash&#39;s blog</title>
+    <link>https://arashem.ir/post/</link>
+    <description>Recent content in Articles on Arash&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://arashem.ir/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Work Experience</title>
+      <link>https://arashem.ir/post/first-work-experience/</link>
+      <pubDate>Sun, 16 Jan 2022 18:41:22 +0000</pubDate>
+      
+      <guid>https://arashem.ir/post/first-work-experience/</guid>
+      <description>My first work experience was in the summer of 2005 when I Just turned 16 and finished the second year of high school (or was about to be junior in high school).
+Early that summer my father said:
+Go get a job son, and start working on your own
+But he never told me how to.
+I was fond of technical stuff since I was a child.
+So the only search algorithm for a job that came to my mind was walking in the streets near where we lived and looking for electrical shops, facilities, technical services, motor winding stores, etc.</description>
+    </item>
+    
+    <item>
+      <title>Embedded System Hobbyist</title>
+      <link>https://arashem.ir/post/embedded-system-hobbyist/</link>
+      <pubDate>Wed, 18 Aug 2021 17:29:38 +0000</pubDate>
+      
+      <guid>https://arashem.ir/post/embedded-system-hobbyist/</guid>
+      <description>Over about 10 years of being embedded system hobbyist I&amp;rsquo;d worked with various evaluation boards.
+Here is short story of me and my evaluation boards!
+Raspberrypi Model B It was around 1391 when I purchased this board. My first Linux board
+I
+ Learn about cross compile and mounting rootfs over NFS Read Embedded Linux Primer by Christopher Hallinan Read Embedded Linux training by bootlin  Tiny6410 In summer of 1393 I purchased this board from ECA eshop.</description>
+    </item>
+    
+    <item>
+      <title>tp-link TL-MR6400</title>
+      <link>https://arashem.ir/post/tplink-tl-mr6400/</link>
+      <pubDate>Sat, 05 Jun 2021 09:10:27 +0000</pubDate>
+      
+      <guid>https://arashem.ir/post/tplink-tl-mr6400/</guid>
+      <description>Introduction For implementation of my VP2S and VP2S2 personal server, I choose TL-MR6400 as 4G router.
+As said in VP2S, my Static IP is provided by Shatel Mobile 4G SIM card.
+Here is some tests and review I&amp;rsquo;ve done about this router.
+Package Here is what you get after un-boxing.
+Speed Test I did serval speed test (iperf) over LAN/WiFi.
+Also Internet speed was tested.
+During Internet test I had 4G link with RSRQ = -9dB.</description>
+    </item>
+    
+    <item>
+      <title>Stanley Trigger Action</title>
+      <link>https://arashem.ir/post/stanley-trigger-action/</link>
+      <pubDate>Sun, 17 Jan 2021 17:40:59 +0000</pubDate>
+      
+      <guid>https://arashem.ir/post/stanley-trigger-action/</guid>
+      <description>Introduction I was curious about how long Trigger Action can keep water temperature. So I prepared a setup in order to measure temperature profile. Here is what I&amp;rsquo;d done.
+Setup Main items in my setup include following items
+ ESP8266 with Micropython firmware as central procession unit Water proof DS18b20 connected to ESP8266 over W1 bus. I used very thin wire for connection so I can close the hat putty terminal as logging agent  Here is my setup (Not a very good picture, I know)</description>
+    </item>
+    
+  </channel>
+</rss>

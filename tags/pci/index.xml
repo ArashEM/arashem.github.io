@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PCI on Arash&#39;s blog</title>
+    <link>https://arashem.ir/tags/pci/</link>
+    <description>Recent content in PCI on Arash&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Sep 2020 17:23:28 +0000</lastBuildDate><atom:link href="https://arashem.ir/tags/pci/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EPCI</title>
+      <link>https://arashem.ir/projects/epci/</link>
+      <pubDate>Thu, 24 Sep 2020 17:23:28 +0000</pubDate>
+      
+      <guid>https://arashem.ir/projects/epci/</guid>
+      <description>Introduction I always had a dream about HW/SW co-design of network controller. Like designing schematic / PCB, then develop FW/SW and so on &amp;hellip;
+This is basically just a dream. But for my first iteration I&amp;rsquo;d decided to design a PCI network card.
+As PCI is parallel (and a little simple) protocol, so I can handle (hopefully) hardware part of network card in LX9!
+Again, my design can be as simple as 2 layer PCB.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Router on Arash&#39;s blog</title>
+    <link>https://arashem.ir/tags/router/</link>
+    <description>Recent content in Router on Arash&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Jun 2021 09:10:27 +0000</lastBuildDate><atom:link href="https://arashem.ir/tags/router/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tp-link TL-MR6400</title>
+      <link>https://arashem.ir/post/tplink-tl-mr6400/</link>
+      <pubDate>Sat, 05 Jun 2021 09:10:27 +0000</pubDate>
+      
+      <guid>https://arashem.ir/post/tplink-tl-mr6400/</guid>
+      <description>Introduction For implementation of my VP2S and VP2S2 personal server, I choose TL-MR6400 as 4G router.
+As said in VP2S, my Static IP is provided by Shatel Mobile 4G SIM card.
+Here is some tests and review I&amp;rsquo;ve done about this router.
+Package Here is what you get after un-boxing.
+Speed Test I did serval speed test (iperf) over LAN/WiFi.
+Also Internet speed was tested.
+During Internet test I had 4G link with RSRQ = -9dB.</description>
+    </item>
+    
+  </channel>
+</rss>

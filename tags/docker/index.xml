@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on Arash&#39;s blog</title>
+    <link>https://arashem.ir/tags/docker/</link>
+    <description>Recent content in Docker on Arash&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jun 2021 16:15:30 +0000</lastBuildDate><atom:link href="https://arashem.ir/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VP2S</title>
+      <link>https://arashem.ir/projects/vp2s/</link>
+      <pubDate>Sun, 20 Jun 2021 16:15:30 +0000</pubDate>
+      
+      <guid>https://arashem.ir/projects/vp2s/</guid>
+      <description>Introduction One of my old dreams was about having personal server which is accessible over Internet.
+So I could rent a VPS (Virtual Private Server).
+But, It&amp;rsquo;s
+ Expensive Expensive (again!) Not that private  So I build my own infrastructure based on old G41M motherboard.
+Here is what I did.
+Functional View Using Ubuntu-16.04 and Docker, I could have multiple services.
+nginx-proxy helped to map each service to dedicated sub-domain.</description>
+    </item>
+    
+  </channel>
+</rss>
